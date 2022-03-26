@@ -1,0 +1,18 @@
+c:\users\milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\bin\Debug\Samostalan_rad_2.exe.config
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\bin\Debug\Samostalan_rad_2.exe
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\bin\Debug\Samostalan_rad_2.pdb
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.csprojResolveAssemblyReference.cache
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.Properties.Resources.resources
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.csproj.GenerateResource.Cache
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.exe
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.pdb
+C:\Users\Milenko\documents\visual studio 2012\Projects\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.Glavna_forma.resources
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\bin\Debug\Samostalan_rad_2.exe.config
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.exe
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.pdb
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\bin\Debug\Samostalan_rad_2.exe
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\bin\Debug\Samostalan_rad_2.pdb
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.csprojResolveAssemblyReference.cache
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.Glavna_forma.resources
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.Properties.Resources.resources
+D:\ \etf\rii 3 godina\TMP\самосталан2\Samostalan_rad_2\Samostalan_rad_2\obj\Debug\Samostalan_rad_2.csproj.GenerateResource.Cache
